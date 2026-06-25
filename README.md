@@ -3,7 +3,7 @@
 Freelance Developer | AI Enthusiast | Building impactful tools.
 
 ### About Me
-- 🔭 Currently working on: [Project/Link]
+- 🔭 Currently working on: [Forge Templates](https://forgecode-store.vercel.app)
 - 🌱 Exploring: Machine Learning Engineering with PyTorch
 - 📫 Reach me: forgecode98@gmail.com
 - ⚡ Fun fact: When I'm not coding, I'm usually reading research papers on distributed systems or tinkering with home lab servers.
@@ -17,6 +17,6 @@ Freelance Developer | AI Enthusiast | Building impactful tools.
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=forgecode&show_icons=true&theme=radical)
 
 ### 🔥 Featured Projects
-- [Project 1](link) — 
-- [Project 2](link) — 
+- [Project 1](https://forgecode-store.vercel.app) — 
+ 
 
